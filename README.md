@@ -15,5 +15,4 @@ To do so we concatenate all the files and repository in one archive file separat
    To list files : ./my_tar tf [archive_name.tar]
 
 To compress or decompress you have to use z flag.
-
 I did also the verbose option (v), that list archive/unarchive files.
